@@ -1,0 +1,6 @@
+/Users/katrina/projects/RockPaperScissors/bin/Debug/RockPaperScissors.exe
+/Users/katrina/projects/RockPaperScissors/bin/Debug/RockPaperScissors.pdb
+/Users/katrina/projects/RockPaperScissors/obj/x86/Debug/RockPaperScissors.csprojResolveAssemblyReference.cache
+/Users/katrina/projects/RockPaperScissors/obj/x86/Debug/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/katrina/projects/RockPaperScissors/obj/x86/Debug/RockPaperScissors.exe
+/Users/katrina/projects/RockPaperScissors/obj/x86/Debug/RockPaperScissors.pdb
